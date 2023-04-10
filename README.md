@@ -23,9 +23,8 @@ python manage.py runserver
 git clone https://github.com/True-Ha/Kanban_board.git
 
 #### 3) Создать виртуальное окружение
-cd kanban
-
 python -m venv venv
+
 #### 4) Активировать виртуальное окружение
 Linux:
 source venv/bin/activate
